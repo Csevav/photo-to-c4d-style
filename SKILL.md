@@ -1,9 +1,9 @@
 ---
-name: c4d-render-style
-description: "Transform an uploaded photo into a polished Cinema 4D-style 3D render while preserving the subject, composition, and recognizable details."
+name: photo-to-c4d-style
+description: "Transform an uploaded photo into a polished Cinema 4D-style 3D model while preserving the subject, composition, and recognizable details."
 ---
 
-# C4D Render Style
+# Photo to C4D Style
 
 Use this skill when the user provides a photo and asks for a C4D-style rubber, soft vinyl, silicone, or polished 3D model reinterpretation.
 

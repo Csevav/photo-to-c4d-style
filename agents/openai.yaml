@@ -1,4 +1,4 @@
 interface:
-  display_name: "C4D Render Style"
-  short_description: "Turn photos into polished C4D-style 3D renders"
-  default_prompt: "Use $c4d-render-style to transform the uploaded photo into a polished C4D-style 3D render."
+  display_name: "Photo to C4D Style"
+  short_description: "Transform photos into polished C4D-style 3D models"
+  default_prompt: "Use $photo-to-c4d-style to transform the uploaded photo into a polished C4D-style 3D render."
